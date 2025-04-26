@@ -1,0 +1,73 @@
+<resources>
+    <!-- App Information -->
+    <string name="app_name">Pachira</string>
+    <string name="application_Name">PACHIRA</string>
+    <string name="tag_line">Grow your Wealth, Leaf by Leaf</string>
+    <string name="PachiraLogo">Pachira Logo</string>
+    <string name="Welcome">WELCOME</string>
+
+    <!-- Navigation -->
+    <string name="home">Home</string>
+    <string name="budgets">Budgets</string>
+    <string name="trends">Trends</string>
+    <string name="wallets">Wallets</string>
+    <string name="profile">Profile</string>
+    <string name="back">Back</string>
+
+    <!-- Authentication -->
+    <string name="Login">Login</string>
+    <string name="Register">Sign Up</string>
+    <string name="login_to_your_account">Login to your account</string>
+    <string name="create_an_account">Create an account</string>
+    <string name="don_t_have_an_account_register">Don\'t have an account? Sign Up</string>
+    <string name="already_have_an_account_login">Already have an account? Login</string>
+    <string name="logout">Logout</string>
+    <string name="email">Email Address</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="register">Register</string>
+    <string name="First_Name">First Name</string>
+
+    <!-- Dashboard -->
+    <string name="Dashboard">DASHBOARD</string>
+    <string name="Available_Balance">Available Balance</string>
+    <string name="transactions">Transactions</string>
+
+    <!-- Income & Expense -->
+    <string name="Income">Income</string>
+    <string name="Expense">Expense</string>
+    <string name="Add_Income">Add Income</string>
+    <string name="Add_Expense">Add Expense</string>
+    <string name="add_income">ADD INCOME</string>
+    <string name="add_expense">ADD EXPENSE</string>
+    <string name="Income_Trend">Income Trend</string>
+    <string name="Expense_Trend">Expense Trend</string>
+
+    <!-- Transaction Details -->
+    <string name="amount">Amount</string>
+    <string name="description">Description</string>
+    <string name="description_hint">Enter description</string>
+    <string name="category">Category</string>
+    <string name="date">Date</string>
+    <string name="save">Save</string>
+    <string name="receipt_image">Receipt Image</string>
+
+    <!-- Categories -->
+    <string name="category_name">Category Name</string>
+    <string name="color_hex_code">Color Hex Code</string>
+    <string name="icon_name">Icon Name</string>
+
+    <!-- Date Navigation -->
+    <string name="previous_month">Previous Month</string>
+    <string name="next_month">Next Month</string>
+
+
+    <string name="remember">Remember Me</string>
+    <string name="ForgotPassword">Forgot Password?</string>
+    <string name="Password_exp">Please enter your email address and we’ll send you a link to reset your password. </string>
+    <string name="request_link">REQUEST RESET LINK</string>
+    <string name="back_login">Back to Login</string>
+    <string name="lock_description">Open Lock</string>
+    <string name="back_btn">Back button</string>
+    <string name="Category_Spending">Category Spending</string>
+</resources>

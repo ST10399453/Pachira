@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "360286836781",
+    "project_id": "prog7313poepachira",
+    "storage_bucket": "prog7313poepachira.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360286836781:android:a59763b96e96a21c1780a4",
+        "android_client_info": {
+          "package_name": "com.pachira.prog7313poepachira"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9YVAQv4L-kT9AZaVEot4N63PcnVq33Fg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

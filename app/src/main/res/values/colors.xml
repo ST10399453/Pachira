@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="purple">#5E23FF</color>
+    <color name="shadowGrey">#999999</color>
+    <color name="outline_color">#FF6200EE</color>
+    <color name="vibrant_blue">#0E33F3</color>
+    <color name="electric_purple">#5E23FF</color>
+    <color name="light_gray_30">#4CD9D9D9</color>
+    <color name="colorPrimary">#4CAF50</color>
+    <color name="colorPrimaryDark">#388E3C</color>
+    <color name="colorAccent">#FF9800</color>
+    <color name="colorBackground">#F5F5F5</color>
+    <color name="colorDivider">#BDBDBD</color>
+    <color name="colorIncome">#4CAF50</color>
+    <color name="colorExpense">#F44336</color>
+    <color name="colorProgressBackground">#E0E0E0</color>
+    <color name="colorTabBackground">#E0E0E0</color>
+    <color name="colorImagePreviewBackground">#FAFAFA</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="income_green">#FF4CAF50</color>
+    <color name="expense_red">#FFE53935</color>
+    <color name="light_gray">#F5F5F5</color>
+
+    <!-- Added colors for text -->
+    <color name="colorTextPrimary">#212121</color>
+    <color name="colorTextSecondary">#757575</color>
+
+    <!-- Category colors -->
+    <color name="category_red">#F44336</color>
+    <color name="category_pink">#E91E63</color>
+    <color name="category_purple">#9C27B0</color>
+    <color name="category_deep_purple">#673AB7</color>
+    <color name="category_indigo">#3F51B5</color>
+    <color name="category_blue">#2196F3</color>
+    <color name="category_light_blue">#03A9F4</color>
+    <color name="category_cyan">#00BCD4</color>
+    <color name="category_teal">#009688</color>
+    <color name="category_green">#4CAF50</color>
+    <color name="category_light_green">#8BC34A</color>
+    <color name="category_lime">#CDDC39</color>
+    <color name="category_yellow">#FFEB3B</color>
+    <color name="category_amber">#FFC107</color>
+    <color name="category_orange">#FF9800</color>
+    <color name="category_deep_orange">#FF5722</color>
+    <color name="category_brown">#795548</color>
+    <color name="category_grey">#9E9E9E</color>
+</resources>
